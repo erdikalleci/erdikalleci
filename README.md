@@ -9,8 +9,6 @@ Please visit my <a href="https://erdikalleci.com"> Personel Website</a>
 
 <p align="left"> <a href="https://twitter.com/erdikalleci" target="blank"><img src="https://img.shields.io/twitter/follow/erdikalleci?logo=twitter&style=for-the-badge" alt="erdikalleci" /></a> </p>
 
-- I also make contents on my Youtube[Channel](https://www.youtube.com/c/erdikalleci)
-
 ----
 
 
